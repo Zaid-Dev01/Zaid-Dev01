@@ -29,10 +29,6 @@ Here are some things I'm interested in building:
 
 I'm continuously learning, experimenting, and improving my programming skills. This profile is where I'll share my projects, practice code, and progress.
 
-### 🤝 Connect With Me
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
 ---
 
 ⭐ Thanks for visiting my profile!
